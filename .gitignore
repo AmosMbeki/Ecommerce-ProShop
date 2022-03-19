@@ -7,7 +7,6 @@
 
 #frontend folder and backend together with the virtual environment
 /myenv
-/frontend
 /backend
 
 # testing
